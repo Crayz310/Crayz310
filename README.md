@@ -19,6 +19,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crayz310&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Crayz310&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Crayz310&theme=tokyonight)
-
-# 👨‍💻 Working on:
-- [🎡 D&J | HOST](https://github.com/D-J-HOSTING)
